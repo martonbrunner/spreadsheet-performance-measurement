@@ -1,0 +1,16 @@
+#spreadsheet-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+    width: 98vw;
+
+    #kendo-spreadsheet {
+        height: 100%;
+    }
+
+    #handsontable-container {
+        height: 90vh;
+        overflow: hidden;
+    }
+}
+
