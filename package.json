@@ -21,7 +21,7 @@
     "dependencies": {
         "@progress/kendo-ui": "2020.1.115",
         "handsontable": "7.3.0",
-        "jquery": "3.4.1"
+        "jquery": "3.5.0"
     },
     "devDependencies": {
         "@avon-maps/eslint-config-avon-maps": "1.0.1",
